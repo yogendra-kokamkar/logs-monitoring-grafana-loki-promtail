@@ -2,6 +2,8 @@
 
 This guide will walk you through the installation and setup process for the tools needed for logging and monitoring, including Docker, Nginx, Grafana, Loki, and Promtail on UBUNTU LINUX.
 
+![Flow_Diagram](https://github.com/user-attachments/assets/e83eecd4-da58-4002-8e32-a0a1df85cb82)
+
 ## Installations and Pre-requisites
 
 ### 1) Docker
@@ -112,3 +114,5 @@ Docker Logs Queries
 ```bash
 {job="docker"} |~ ".*"
 ```
+
+![grafana_8](https://github.com/user-attachments/assets/48340a57-9eed-4873-b9c0-6f854934adbc)
