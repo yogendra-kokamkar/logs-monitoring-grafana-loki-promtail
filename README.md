@@ -1,6 +1,6 @@
 # Project Setup
 
-This guide will walk you through the installation and setup process for the tools needed for logging and monitoring, including Docker, Nginx, Grafana, Loki, and Promtail.
+This guide will walk you through the installation and setup process for the tools needed for logging and monitoring, including Docker, Nginx, Grafana, Loki, and Promtail on UBUNTU LINUX.
 
 ## Installations and Pre-requisites
 
